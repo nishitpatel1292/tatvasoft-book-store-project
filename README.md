@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Summer Internship Project for TatvaSoft 
+
+Deployed here : https://tatvasoft-book-store.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
